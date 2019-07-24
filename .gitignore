@@ -1,0 +1,4 @@
+## IDE and jupyter files
+
+*.idea/
+*.ipynb_checkpoints/
